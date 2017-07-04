@@ -1,6 +1,6 @@
 {
   "name": "calculate-tip",
-  "description": "calculate-tip",
+  "description": "Calculate a tip on the command-line.",
   "version": "0.0.1",
   "author": {
     "name": "Zac Anger",
@@ -22,8 +22,11 @@
   },
   "bugs": "https://github.com/zacanger/calculate-tip/issues",
   "keywords": [
-    "",
-    "calculate-tip"
+    "tip",
+    "calculate-tip",
+    "calculator",
+    "cli",
+    "command-line"
   ],
   "dependencies": {},
   "devDependencies": {},
