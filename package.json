@@ -1,7 +1,7 @@
 {
   "name": "calculate-tip",
   "description": "Calculate a tip on the command-line.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "author": {
     "name": "Zac Anger",
     "email": "zac@zacanger.com",
