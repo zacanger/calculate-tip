@@ -27,4 +27,4 @@ Examples:
 
 ## License:
 
-[WTFPL](./LICENSE.md)
+[MIT](./LICENSE.md)
