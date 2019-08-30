@@ -25,6 +25,4 @@ Examples:
 * Why?
   * I'm really bad at doing math in my head
 
-## License:
-
-[MIT](./LICENSE.md)
+[LICENSE](./LICENSE.md)
