@@ -2,6 +2,8 @@
 
 Tiny command-line tip calculator.
 
+[Donate](https://ko-fi.com/zacanger)
+
 --------
 
 ## Installation:
